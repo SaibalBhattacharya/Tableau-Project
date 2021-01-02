@@ -45,7 +45,7 @@ PAGE 3 – LEFT CHART
 
 This chart shows the forecasted total deaths in the US as of Nov 1 – using Tableau’s forecast tool. Please note that the forecast made by Tableau has no epidemiologic underpinnings, and so is a forecast based on the assumption that no changes in public health policy are implemented in the near future than those present as of the time of this modeling exercise. The model predicts around 235,000 COVID-19 related deaths as of Nov 1, and for comparison, the IHME (Institute of Health Metrics and Evaluation at University of Washington) model predicts around 250,000 deaths by Nov 1. These are very grim numbers, and this kind of data analysis should wake us all up to initiate and implement effective public health policies – there is still time to reduce unnecessary deaths. History will be watching!
 
-Page 3 – RIGHT CHART
+PAGE 3 – RIGHT CHART
 
 The last chart plots a measure of average extreme poverty versus the average per capita GDP of each country in the database. Unfortunately, the database didn’t clearly explain the units used to record extreme poverty. As expected, the plot shows an inverse relationship between poverty and GDP – a power equation describes the trend reasonably well (r2 = 0.69, p-value < 0.0001). The shape of the symbols represents the continents, while the size represents the total number of cases (per million), and the color represents the total deaths (per million). Thus, this plot utilizes multiple marks (shape, size, and color) to display information. 
 
